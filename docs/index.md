@@ -9,8 +9,7 @@ hide:
 
 ## Instructors
 
-Ion Stoica, Pieter Abbeel, Ali Ghodsi<br />
-Andy Konwinski, Andrew Krioukov, Sergey Karayev
+![Pieter Abbeel, Ali Ghodsi, Ion Stoica, Sergey Karayev, Andy Konwinski, Andrew Krioukov](images/instructors.jpg)
 
 ## Overview
 
@@ -26,7 +25,7 @@ The objectives of this course are to:
 
 This [course](https://classes.berkeley.edu/content/2022-spring-compsci-294-194-lec-194) will meet 5-7pm every Thursday, according to the schedule below. Video recordings of the sessions will be made available the following morning.
 
-All communication will be done via [EECS Slack](https://eecs.slack.com), channel **#research-to-startup-sp22**. You may send the instructors a direct message (or email [cs294-194-staff@googlegroups.com](mailto:cs294-194-staff@googlegroups.com) if you have questions that are relevant to only you, but keep most of the communication public to the course.
+All communication will be done via Slack. You will be added before class starts. You may send the instructors a direct message (or email [cs294-194-staff@googlegroups.com](mailto:cs294-194-staff@googlegroups.com)) if you have questions that are relevant to only you, but keep most of the communication public to the course.
 
 ## Project
 
@@ -38,4 +37,4 @@ During the first part of the semester, we will cover topics in the order that a 
 
 During the last third of the course, class sessions will consist of discussions and guest talks about currently active areas for technical startups (e.g., security/crypto, data/AI, etc.).
 
-![](images/schedule.png)
+![](images/schedule.jpg)
