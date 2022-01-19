@@ -26,7 +26,7 @@ The objectives of this course are to:
 - Introduce you to faculty, alumni, and other experts who have started companies and their learnings
 - Introduce you to other students who are also interested in startups
 
-This [course](https://classes.berkeley.edu/content/2022-spring-compsci-294-194-lec-194) will meet 5-7pm every Thursday, according to the schedule below. Video recordings of lectures will be made available.
+This [course](https://classes.berkeley.edu/content/2022-spring-compsci-294-194-lec-194) will meet 5-7pm every Thursday, according to the schedule below. 
 
 All communication will be done via Slack. You will be added before class
 starts. You may send the instructors a direct message (or email
