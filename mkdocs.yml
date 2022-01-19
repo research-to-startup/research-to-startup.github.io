@@ -12,9 +12,9 @@ copyright: Research to Startup, 2022
 
 theme:
   name: material
-  # features:
-  #   - navigation.tabs
-  #   - navigation.sections
+  features:
+    - navigation.tabs
+    # - navigation.sections
 #   custom_dir: overrides
 #   favicon: images/favicon.png
 #   font: false
@@ -40,3 +40,4 @@ extra:
 
 nav:
   - 'Home': 'index.md'
+  # - 'Project Guidelines': 'project.md'
