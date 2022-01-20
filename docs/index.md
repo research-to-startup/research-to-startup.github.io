@@ -26,10 +26,14 @@ The objectives of this course are to:
 - Introduce you to faculty, alumni, and other experts who have started companies and their learnings
 - Introduce you to other students who are also interested in startups
 
-This [course](https://classes.berkeley.edu/content/2022-spring-compsci-294-194-lec-194) will meet 5-7pm every Thursday, according to the schedule below. 
+This
+[course](https://classes.berkeley.edu/content/2022-spring-compsci-294-194-lec-194)
+will meet 5-7pm every Thursday in, according to the schedule below. Per UC
+Berkeley policy, at least the first two weeks of class will be held via Zoom.
+If/when we meet in person, classes will be in 306 Soda Hall.
 
 All communication will be done via Slack. You will be added before class
-starts. You may send the instructors a direct message (or email
+starts. You may send the instructors a Slack direct message (or email
 [cs294-194-staff@googlegroups.com](mailto:cs294-194-staff@googlegroups.com)) if
 you have questions that are relevant to only you, but keep most of the
 communication public to the course.
@@ -51,8 +55,9 @@ startup founder. Classes in this part will generally consist of a 30-45 min
 lecture, and then a talk by a guest speaker. Guest speakers will mostly be
 experienced founders, with an emphasis on Berkeley faculty and alumni.
 
-During the last third of the course, class sessions will consist of discussions
+During the last part of the semester -- after the [CSGE](https://csge.berkeley.edu)
+Student/Faculty/Alumni/VC Mixer -- class sessions will consist of discussions
 and guest talks about currently active areas for technical startups (e.g.,
 security/crypto, data/AI, etc.).
 
-![](images/schedule1.jpg)
+![](images/schedule2.jpg)
