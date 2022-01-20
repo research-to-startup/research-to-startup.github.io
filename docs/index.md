@@ -55,4 +55,4 @@ During the last third of the course, class sessions will consist of discussions
 and guest talks about currently active areas for technical startups (e.g.,
 security/crypto, data/AI, etc.).
 
-![](images/schedule.jpg) 
+![](images/schedule1.jpg)
