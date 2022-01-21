@@ -40,4 +40,4 @@ extra:
 
 nav:
   - 'Home': 'index.md'
-  # - 'Project Guidelines': 'project.md'
+  - 'Project': 'project.md'
