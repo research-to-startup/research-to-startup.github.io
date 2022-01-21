@@ -51,11 +51,11 @@ From here, develop the bigger vision. If this solution is successful, what can i
 Talk to more customers/users. Have you identified a persona that has the same pain-point most of the time? Share your proposed MVP solution with customers/users. What is their reaction? How much would they be willing to pay if you could sell them this today ($10/month, $100/month, $1000/month, etc).
 
 ### Summarize into final pitch
--Create a final presentation summarizing at least:
--Who is the customer/user?
--What are their pain-points that you plan to solve?
--What is the MVP solution?
--What is your long-term vision?
+- Create a final presentation summarizing at least:
+- Who is the customer/user?
+- What are their pain-points that you plan to solve?
+- What is the MVP solution?
+- What is your long-term vision?
 Optionally, extend this a full pitch deck by adding the business model, market size, channels and differentiation. 
 
 <h2><i>May 12: Present pitch to the class (10 min)</i></h2>
