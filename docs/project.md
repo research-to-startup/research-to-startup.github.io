@@ -13,9 +13,9 @@ Focus areas can be a specific problem you’d like to solve (e.g. energy consump
 
 ### Plan for customer/user interviews.
 Based on the User Discovery lecture, you will build a plan for interviewing potential customers & users to learn about them and their needs. Your plan should include:
-Who you will initially approach and your plan to find more people to talk to
-Your User Discovery Interview Deck (3-4 slides)
-The list of questions you plan to ask
+- Who you will initially approach and your plan to find more people to talk to
+- Your User Discovery Interview Deck (3-4 slides)
+- The list of questions you plan to ask
 
 This will require you to come up with hypotheses of who your customer might be, what some of their pain points are, what features they will want. 
 
