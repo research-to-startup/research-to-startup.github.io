@@ -60,4 +60,4 @@ Student/Faculty/Alumni/VC Mixer -- class sessions will consist of discussions
 and guest talks about currently active areas for technical startups (e.g.,
 security/crypto, data/AI, etc.).
 
-![](images/schedule2.jpg)
+![](images/schedule.jpg)
