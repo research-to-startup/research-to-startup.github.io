@@ -40,12 +40,14 @@ communication public to the course.
 
 ## Project
 
-All students will be required to complete the class project as part of a 3-5
+All students are required to complete the class project as part of a 3-6
 person team. The project will require you to conduct conversations with
 potential users in order to identify and validate real problems and
 opportunities. Your project may be centered around a research hypothesis, an
 open source project, or an idea for a potential company. We hope the project
-might inform your research even if you never pursue a startup.
+might inform your research even if you never pursue a startup. For more details
+see the [project page](project).
+
 
 ## Schedule
 
