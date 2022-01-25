@@ -63,3 +63,21 @@ and guest talks about currently active areas for technical startups (e.g.,
 security/crypto, data/AI, etc.).
 
 ![](images/schedule.jpg)
+
+## Recommended Reading
+
+The readings below are optional. We will touch on key concepts from many of these
+in lectures throughout the semester, and may assign specific excerpts from them.
+In addition, or as an alternative, to buying one of the books below, we encourage
+you to search for blogs that summarize the key lessons from the books.
+
+* Competing Against Luck: The Story of Innovation and Customer Choice - Clayton Christensen, Karen Dillon
+* The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business - Clayton Christensen
+* Good to Great: Why Some Companies Make the Leap and Others Don't - Jim Collins
+* The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company - Steve Blank, Bob Dorf
+* The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
+* Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel, Blake Masters (Sergey’s notes below)
+* Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist - Brad Feld, Jason Mendelson
+* Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers - Geoffrey A. Moore
+* [The YC Startup Playbook](https://playbook.samaltman.com)
+
