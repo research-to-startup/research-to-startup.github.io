@@ -80,6 +80,7 @@ A short book that puts into words a lot of the philosophy behind startups is **Z
 For fundraising, a great resource is **Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist** by Brad Feld and Jason Mendelson.
 
 And here are a few other great reads:
+
 * Competing Against Luck: The Story of Innovation and Customer Choice - Clayton Christensen, Karen Dillon
 * The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business - Clayton Christensen
 * Good to Great: Why Some Companies Make the Leap and Others Don't - Jim Collins
