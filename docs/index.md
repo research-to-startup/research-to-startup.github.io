@@ -71,15 +71,18 @@ in lectures throughout the semester, and may assign specific excerpts from them.
 In addition, or as an alternative, to buying one of the books below, we encourage
 you to search for blogs that summarize the key lessons from the books.
 
-The book that we found most helpful to actually get started is probably **The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company** by Steve Blank and Bob Dorf.
 
-A great concise resource for the same is [The YC Startup Playbook](https://playbook.samaltman.com).
+**Our top picks:**
 
-A short book that puts into words a lot of the philosophy behind startups is **Zero to One: Notes on Startups, or How to Build the Future** by Peter Thiel and Blake Masters.
+* **The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company** by Steve Blank and Bob Dorf - This is the book that we found most helpful to actually get started.
 
-For fundraising, a great resource is **Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist** by Brad Feld and Jason Mendelson.
+* **[The YC Startup Playbook](https://playbook.samaltman.com)** - A concise resource covering diverset topice for early founders.
 
-And here are a few other great reads:
+* **Zero to One: Notes on Startups, or How to Build the Future** by Peter Thiel and Blake Masters - A short book that puts into words a lot of the philosophy behind startups.
+
+* **Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist** by Brad Feld and Jason Mendelson - Good resource for fundraising.
+
+**A few other good reads:**
 
 * Competing Against Luck: The Story of Innovation and Customer Choice - Clayton Christensen, Karen Dillon
 * The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business - Clayton Christensen
