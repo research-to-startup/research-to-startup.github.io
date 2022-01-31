@@ -49,8 +49,9 @@ data scientists).
   to join or convincing people to join yours.<br/>
 * **However, by Feb 10 (i.e., milestone #2 deadline), all groups must have at
   least 3 and no more than 6 team members that are enrolled in the course.**
-* Projects are for enrolled students only (if any waitlisters make it in,
-  they will be given an extra week to join or form a team).
+* Projects are for enrolled students only or non-enrolled students that have
+  been given permission from the instructors. If any waitlisters make it in,
+  they will be given an extra week to join or form a team.
 
 
 ### Plan for customer/user interviews
