@@ -46,7 +46,7 @@ starts. You may send the instructors a Slack direct message (or email
 you have questions that are relevant to only you, but keep most of the
 communication public to the course.
 
-## Project
+## Course Project
 
 All students are required to complete the class project as part of a 3-6
 person team. The project will require you to conduct conversations with

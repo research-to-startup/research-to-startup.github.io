@@ -24,3 +24,8 @@ h1.title {
 li {
   margin-bottom: 0.075em !important
 }
+
+td {
+  padding-top: 0.2em !important;
+  padding-bottom: 0.2em !important;
+}

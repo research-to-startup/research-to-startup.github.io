@@ -4,22 +4,23 @@
 |Summary of project milestone deadlines (see details below)||
 |---|--|
 |**Description**                                                  |**Deadline**|
-|1. Submit your team roster (max 6 students) and your focus area  |2/3, 5pm PT|
-|2. Submit your customer interview plan                           |2/10, 5pm PT|
-|3. Check-in on lessons learned from the first round of interviews|2/24, 5pm PT|
-|4. Present learnings and opportunity in class                    |3/17, 5pm PT|
-|5. Present pitch to the class                                    |5/12, 5pm PT|
+|1. Submit *team roster* (max 6 students) and *focus area*        |2/3 5pm PT|
+|2. Submit *customer interview plan* (team rosters must be final) |2/10 5pm PT|
+|3. Report on *lessons learned* from the first round of interviews|2/24 5pm PT|
+|4. Present *learnings and opportunity* in class                  |3/17 5pm PT|
+|5. Report on more *lessons learned, solution, and vision*        |4/14 5pm PT|
+|6. Present *pitch* to the class                                  |5/12 5pm PT|
 
 ## Submission Instructions
 
-* All submissions should be made via gradscope. You should have received a gradescope invite.
+* All milestones must be submitted via gradscope (you should have received an invite).
 * There will be a gradescope assignment for each project milestone deadline.
+* The project is for enrolled students only.
 * For each milestone: first, one person per group must submit the assignment.
 * **After submitting**, the submitter must add their team members to the submission via the 
   “View or edit group” link. Only enrolled students can be added as group members.<br/>
   <img style="width:65%; border:solid thin lightgray" src="/images/gradescope-view-or-edit-group.png"/><br/>
   <img style="width:30%; border:solid thin lightgray" src="/images/gradescope-add-group-members.png"/>
-
 
 
 ## Project Phases, Milestones, and Deliverables:
@@ -32,18 +33,25 @@ technology or a specific area you’d like to work on.
 Get to know your classmates and shop around for teammates and a project topic
 you’d like to work on. Continue over Slack after class.
 
-#### Milestone 1) Feb 3rd: Submit your team of 3-6 students and your focus area
-
 Focus areas can be a specific problem you’d like to solve (e.g. energy
 consumption in buildings), a specific technology you want to commercialize
 (e.g. Spark) or a specific area you’d like to work on (e.g. developer tools for
 data scientists).
+
+#### Milestone 1) Feb 3rd: Submit your *team roster* (6 enrolled students or less) and your *focus area*
+
+Project groups are flexible and can change for the next week. if you
+haven’t found a group by this first milestone deadline, submit your assignment
+with a one person team, and then join another group or convince people to join
+yours.  **However, by Feb 10 (i.e., milestone #2 deadline), all groups must have
+at least 3 team members that are enrolled in the course.**
 
 
 ### Plan for customer/user interviews
 Based on the User Discovery lecture, you will build a plan for interviewing
 potential customers and users to learn about them and their needs. Your plan
 should include:
+
 - Who you will initially approach and your plan to find more people to talk to
 - Your User Discovery Interview Deck (3-4 slides)
 - The list of questions you plan to ask
@@ -66,7 +74,7 @@ at least 1 interview.
 - What was most surprising?
 - Which of your initial hypotheses were right/wrong?
 
-#### Milestone 3) Feb 24: Check-in on lessons learned from the first round of interviews
+#### Milestone 3) Feb 24: Report on lessons learned from the first round of interviews
 
 Prepare a short slide deck (about 5 slides) or document (about 1/2 page)
 summarizing the findings of your first interviews and what you plan to focus on
@@ -100,13 +108,23 @@ pain-point most of the time? Share your proposed MVP solution with
 customers/users. What is their reaction? How much would they be willing to pay
 if you could sell them this today ($10/month, $100/month, $1000/month, etc).
 
+Put together a short report on any new lessons learned during this second round
+of user meetings and also include at least one slide that summarizes your vision
+and solution. Extra points if you have a demo (even if it is just slides). This
+can be an updated version of your original report on lessons learned, but the
+new content should be called out clearly.
+
+#### Milestone 5) April 14: Report on more lessons learned, solution, &amp; vision
+
 ### Summarize into final pitch
+
 - Create a final presentation summarizing at least:
 - Who is the customer/user?
 - What are their pain-points that you plan to solve?
 - What is the MVP solution?
 - What is your long-term vision?
+
 Optionally, extend this a full pitch deck by adding the business model, market
 size, channels and differentiation. 
 
-#### Milestone 5) May 12: Present pitch to the class (10 min)
+#### Milestone 6) May 12: Present pitch to the class (10 min)
