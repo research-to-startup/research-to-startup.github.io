@@ -14,10 +14,11 @@
 
 * All submissions should be made via gradscope. You should have received a gradescope invite.
 * There will be a gradescope assignment for each project milestone deadline.
-* First, one person in your group must submit the assignment.
-* **After submitting**, add your team members to the submission via the “View or edit group” link. Only enrolled students can be added as group members.<br/>
-<img style="width:65%; border:solid thin lightgray" src="/images/gradescope-view-or-edit-group.png"/><br/>
-<img style="width:30%; border:solid thin lightgray" src="/images/gradescope-add-group-members.png"/>
+* For each milestone: first, one person per group must submit the assignment.
+* **After submitting**, the submitter must add their team members to the submission via the 
+  “View or edit group” link. Only enrolled students can be added as group members.<br/>
+  <img style="width:65%; border:solid thin lightgray" src="/images/gradescope-view-or-edit-group.png"/><br/>
+  <img style="width:30%; border:solid thin lightgray" src="/images/gradescope-add-group-members.png"/>
 
 
 
