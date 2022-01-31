@@ -3,13 +3,13 @@
 
 |Summary of project milestone deadlines (see details below)||
 |---|--|
-|**Description**                                                  |**Deadline**|
-|1. Submit *team roster* (max 6 students) and *focus area*        |2/3 5pm PT|
-|2. Submit *customer interview plan* (team rosters must be final) |2/10 5pm PT|
-|3. Report on *lessons learned* from the first round of interviews|2/24 5pm PT|
-|4. Present *learnings and opportunity* in class                  |3/17 5pm PT|
-|5. Report on more *lessons learned, solution, and vision*        |4/14 5pm PT|
-|6. Present *pitch* to the class                                  |5/12 5pm PT|
+|**Description**|**Deadline**|
+|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm PT|
+|[2. Submit *customer interview plan* (team rosters must be final)](#milestone-2-feb-10-submit-your-customer-interview-plan)|2/10 5pm PT|
+|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-report-on-lessons-learned-from-the-first-round-of-interviews)|2/24 5pm PT|
+|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm PT|
+|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm PT|
+|[6. Submit &amp; present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/12 5pm PT|
 
 ## Submission Instructions
 
@@ -40,17 +40,18 @@ data scientists).
 
 #### Milestone 1) Feb 3rd: Submit your *team roster* (6 enrolled students or less) and your *focus area*
 
-Project groups are flexible and can change for the next week. if you
-haven’t found a group by this first milestone deadline, submit your assignment
-with a one person team, and then join another group or convince people to join
-yours.  **However, by Feb 10 (i.e., milestone #2 deadline), all groups must have
-at least 3 team members that are enrolled in the course.**
+Project groups are flexible and can change for the next week. If you haven’t
+found a group by this first deadline, submit your assignment with just yourself
+as a one person group, and spend the next week finding another group to join
+or convincing people to join yours. **However, by Feb 10 (i.e., milestone #2
+deadline), all groups must have at least 3 and no more than 6 team members that
+are enrolled in the course.**
 
 
 ### Plan for customer/user interviews
-Based on the User Discovery lecture, you will build a plan for interviewing
-potential customers and users to learn about them and their needs. Your plan
-should include:
+Based on the [User Discovery lecture on 1/20](https://drive.google.com/file/d/1n70zF6oUF5S-xmafUdIz9SLm5E2YHd20/view?usp=sharing), you will build a plan for
+interviewing potential customers and users to learn about them and their needs.
+Your plan should include:
 
 - Who you will initially approach and your plan to find more people to talk to
 - Your User Discovery Interview Deck (3-4 slides)
@@ -76,7 +77,7 @@ at least 1 interview.
 
 #### Milestone 3) Feb 24: Report on lessons learned from the first round of interviews
 
-Prepare a short slide deck (about 5 slides) or document (about 1/2 page)
+Prepare a short slide deck (about 3-5 slides) or document (about 1/2 page)
 summarizing the findings of your first interviews and what you plan to focus on
 next. Have you uncovered a high-value user pain point?
 
