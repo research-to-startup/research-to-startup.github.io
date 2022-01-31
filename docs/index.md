@@ -13,10 +13,18 @@ hide:
 
 ## Overview
 
-As a CS graduate student, you likely understand some career paths quite well,
-for example: becoming a professor, an industrial lab researcher, or a software
-engineer. Starting your own company, on the other hand, probably seems quite
-difficult and risky.
+As a CS PhD student or Postdoc, you likely understand some career paths quite
+well, for example: becoming a professor, an industrial lab researcher, or a
+software engineer. Starting your own company, on the other hand, probably seems
+quite difficult and risky.
+
+This course is for Berkeley CS researchers who are curious about what it
+takes to create a world-changing company. Berkeley EECS researchers have led
+the creation of industry-defining technologies (e.g., BSD, TCP, RISK, RAID,
+Spark), as well as iconic technology startups (e.g., VMWare, Apple, Nicera,
+Inktomi, Sun Microsystems, and Tesla). We will review key lessons from these
+successes, with a focus on the first steps you can take to go from research
+to startup.
 
 The objectives of this course are to:
 
