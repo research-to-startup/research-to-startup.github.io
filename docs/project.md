@@ -40,12 +40,17 @@ data scientists).
 
 #### Milestone 1) Feb 3rd: Submit your *team roster* (6 enrolled students or less) and your *focus area*
 
-Project groups are flexible and can change for the next week. If you haven’t
-found a group by this first deadline, submit your assignment with just yourself
-as a one person group, and spend the next week finding another group to join
-or convincing people to join yours. **However, by Feb 10 (i.e., milestone #2
-deadline), all groups must have at least 3 and no more than 6 team members that
-are enrolled in the course.**
+* **LATE SUBMISSIONS ARE NOT ALLOWED.**
+* If you are not part of an on-time project submission, **YOU WILL BE DROPPED
+  FROM THE COURSE**, and in general auditing of the course is not allowed.
+* Project groups are flexible and can change for the next week. If you haven’t
+  found a group by this first deadline, submit your assignment with just
+  yourself as a one person group, and spend the next week finding another group
+  to join or convincing people to join yours.<br/>
+* **However, by Feb 10 (i.e., milestone #2 deadline), all groups must have at
+  least 3 and no more than 6 team members that are enrolled in the course.**
+* Projects are for enrolled students only (if any waitlisters make it in,
+  they will be given an extra week to join or form a team).
 
 
 ### Plan for customer/user interviews
@@ -61,6 +66,8 @@ This will require you to come up with hypotheses of who your customer might be,
 what some of their pain points are, what features they will want. 
 
 #### Milestone 2) Feb 10: Submit your customer interview plan
+* Also by 2/10, all team rosters muust be finalized and have 3-6 team
+  members that are enrolled in the course.
 
 ### Conduct interviews
 
