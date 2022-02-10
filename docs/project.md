@@ -3,13 +3,13 @@
 
 |Summary of project milestone deadlines (see details below)||
 |---|--|
-|**Description**|**Deadline**|
-|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm PT|
-|[2. Submit *customer interview plan* (team rosters must be final)](#milestone-2-feb-10-submit-your-customer-interview-plan)|2/10 5pm PT|
-|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-report-on-lessons-learned-from-the-first-round-of-interviews)|2/24 5pm PT|
-|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm PT|
-|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm PT|
-|[6. Submit &amp; present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/12 5pm PT|
+|**Description**|**Deadline (PT)**|
+|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm|
+|[2. Submit *customer interview plan* (team rosters must be final)](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|<span style="text-decoration: line-through">2/10</span> 2/14 5pm|
+|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-report-on-lessons-learned-from-the-first-round-of-interviews)|2/24 5pm|
+|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm|
+|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm|
+|[6. Submit &amp; present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/12 5pm|
 
 ## Submission Instructions
 
@@ -54,21 +54,29 @@ data scientists).
   they will be given an extra week to join or form a team.
 
 
+By 2/10, all team rosters muust be finalized and have 3-6 team members that are
+enrolled in the course.
+
 ### Plan for customer/user interviews
 Based on the [User Discovery lecture on 1/20](https://drive.google.com/file/d/1n70zF6oUF5S-xmafUdIz9SLm5E2YHd20/view?usp=sharing), you will build a plan for
 interviewing potential customers and users to learn about them and their needs.
 Your plan should include:
 
-- Who you will initially approach and your plan to find more people to talk to
+- List of at least 3 people you will initially approach and your plan to find more people to talk to.
+    - **For this first round of meetings, a group of size X will ultimately need at least X distinct user interviews.** If you got permission to have a group with less than 3 members, you need at least 3 interviews.
+    - Multiple group members can attend each meeting, each group member must attend at least one meeting.
+    - Don't stress about this initial list too much. This list is just a starting spot. You do not need to interview everybody on this list. Your group can add and drop people from this list at your discretion as you work towards the required number of interviews for your group.
 - Your User Discovery Interview Deck (3-4 slides)
-- The list of questions you plan to ask
+    - Again, [the User Discovery lecture on 1/20](https://drive.google.com/file/d/1n70zF6oUF5S-xmafUdIz9SLm5E2YHd20/view?usp=sharing) had examples of these slides (near the end).
+- The list of questions you plan to ask.
 
 This will require you to come up with hypotheses of who your customer might be,
 what some of their pain points are, what features they will want. 
 
-#### Milestone 2) Feb 10: Submit your customer interview plan
-* Also by 2/10, all team rosters muust be finalized and have 3-6 team
-  members that are enrolled in the course.
+#### Milestone 2) <span style="text-decoration: line-through">Feb 10</span> Feb 14: Submit your customer interview plan
+
+* Note that the deadline for Milestone 2 has been shifted later from Feb 10 to Feb 14, 2022.
+* Make your Milestone 2 submission via Gradescope.
 
 ### Conduct interviews
 
