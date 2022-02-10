@@ -5,7 +5,8 @@
 |---|--|
 |**Description**|**Deadline (PT)**|
 |[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm|
-|[2. Submit *customer interview plan* (team rosters must be final)](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|<span style="text-decoration: line-through">2/10</span> 2/14 5pm|
+|[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10 5pm|
+|[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|<span style="text-decoration: line-through">2/10</span> 2/14 5pm|
 |[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-report-on-lessons-learned-from-the-first-round-of-interviews)|2/24 5pm|
 |[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm|
 |[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm|
@@ -54,8 +55,11 @@ data scientists).
   they will be given an extra week to join or form a team.
 
 
-By 2/10, all team rosters muust be finalized and have 3-6 team members that are
-enrolled in the course.
+#### 1.a) By 2/10, all team rosters muust be finalized and have 3-6 team members that are enrolled in the course.
+
+For this mini check-in milestone 1.a, each team must add a slide to the Project
+check-in deck (shared via class slack) with their team name, final roster, and
+current status of their idea/area.
 
 ### Plan for customer/user interviews
 Based on the [User Discovery lecture on 1/20](https://drive.google.com/file/d/1n70zF6oUF5S-xmafUdIz9SLm5E2YHd20/view?usp=sharing), you will build a plan for
