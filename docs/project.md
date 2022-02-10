@@ -80,7 +80,7 @@ what some of their pain points are, what features they will want.
 #### Milestone 2) <span style="text-decoration: line-through">Feb 10</span> Feb 14: Submit your customer interview plan
 
 * Note that the deadline for Milestone 2 has been shifted later from Feb 10 to Feb 14, 2022.
-* Make your Milestone 2 submission via Gradescope.
+* Make your Milestone 2 submission via Gradescope (don't forget to follow the [submission instructions](#submission-instructions) and add all group members to this submission as well!)
 
 ### Conduct interviews
 
