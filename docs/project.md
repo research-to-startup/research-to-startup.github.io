@@ -66,7 +66,7 @@ Based on the [User Discovery lecture on 1/20](https://drive.google.com/file/d/1n
 interviewing potential customers and users to learn about them and their needs.
 Your plan should include:
 
-- List of at least 3 people you will initially approach and your plan to find more people to talk to.
+- List of at least 3 people you will initially approach and your plan to find more candidates.
     - **For this first round of meetings, a group of size X will ultimately need at least X distinct user interviews.** If you got permission to have a group with less than 3 members, you need at least 3 interviews.
     - Multiple group members can attend each meeting, each group member must attend at least one meeting.
     - Don't stress about this initial list too much. This list is just a starting spot. You do not need to interview everybody on this list. Your group can add and drop people from this list at your discretion as you work towards the required number of interviews for your group.
