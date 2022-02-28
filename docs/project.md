@@ -7,7 +7,7 @@
 |[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm|
 |[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10 5pm|
 |[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|<span style="text-decoration: line-through">2/10</span> 2/14 5pm|
-|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-report-on-lessons-learned-from-the-first-round-of-interviews)|2/24 5pm|
+|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-mar-3-report-on-lessons-learned-from-the-first-round-of-interviews)|<span style="text-decoration: line-through">2/24</span> 3/3 5pm|
 |[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm|
 |[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm|
 |[6. Submit &amp; present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/12 5pm|
@@ -95,7 +95,7 @@ at least 1 interview.
 - What was most surprising?
 - Which of your initial hypotheses were right/wrong?
 
-#### Milestone 3) Feb 24: Report on lessons learned from the first round of interviews
+#### Milestone 3) <span style="text-decoration: line-through">Feb 24</span> Mar 3: Report on lessons learned from the first round of interviews
 
 Prepare a short slide deck (about 3-5 slides) or document (about 1/2 page)
 summarizing the findings of your first interviews and what you plan to focus on
