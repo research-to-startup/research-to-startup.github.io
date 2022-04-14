@@ -3,7 +3,7 @@
 
 |Summary of project milestone deadlines (see details below)||
 |---|--|
-|**Description**|**Deadline (at 5pm PT)**|
+|**Milestone**|**Deadline (at 5pm PT)**|
 |[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3|
 |[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10|
 |[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|2/14|
@@ -40,7 +40,9 @@ consumption in buildings), a specific technology you want to commercialize
 (e.g. Spark) or a specific area you’d like to work on (e.g. developer tools for
 data scientists).
 
-#### Milestone 1) Feb 3rd: Submit your *team roster* (6 enrolled students or less) and your *focus area*
+### Milestone 1: Submit your team roster and your focus area
+
+Due Feb 3rd.
 
 * **LATE SUBMISSIONS ARE NOT ALLOWED.**
 * If you are not part of an on-time project submission, **YOU WILL BE DROPPED
@@ -55,8 +57,9 @@ data scientists).
   been given permission from the instructors. If any waitlisters make it in,
   they will be given an extra week to join or form a team.
 
+### Milestone 1a: Finalize 3-6 enrolled student team rosters
 
-#### 1.a) By 2/10, all team rosters muust be finalized and have 3-6 team members that are enrolled in the course.
+Due Feb 10.
 
 For this mini check-in milestone 1.a, each team must add a slide to the Project
 check-in deck (shared via class slack) with their team name, final roster, and
@@ -78,7 +81,9 @@ Your plan should include:
 This will require you to come up with hypotheses of who your customer might be,
 what some of their pain points are, what features they will want.
 
-#### Milestone 2) Feb 14: Submit your customer interview plan
+### Milestone 2: Submit your customer interview plan
+
+Due Feb 14
 
 * Make your Milestone 2 submission via Gradescope (don't forget to follow the [submission instructions](#submission-instructions) and add all group members to this submission as well!)
 
@@ -95,7 +100,9 @@ at least 1 interview.
 - What was most surprising?
 - Which of your initial hypotheses were right/wrong?
 
-#### Milestone 3) <span style="text-decoration: line-through">Feb 24</span> Mar 3: Report on lessons learned from the first round of interviews
+### Milestone 3: Report on lessons learned from interviews
+
+Due Mar 3.
 
 Prepare a short slide deck (about 3-5 slides) or document (about 1/2 page)
 summarizing the findings of your first interviews and what you plan to focus on
@@ -112,7 +119,9 @@ Based on all of your interviews, come up with a summary of who is the
 customer/user and what are their pain-points. Prepare a short presentation on
 this to share with the class.
 
-#### Milestone 4) March 17: Present learnings & opportunity in class (5 min)
+### Milestone 4: Present learnings & opportunity in class (5 min)
+
+Due March 17.
 
 ### Come up with solution & vision
 Based on the personas and pain-points you’ve identified, come up with a
@@ -135,7 +144,9 @@ and solution. Extra points if you have a demo (even if it is just slides). This
 can be an updated version of your original report on lessons learned, but the
 new content should be called out clearly.
 
-#### Milestone 5) April 21: Report on more lessons learned, solution, and vision
+### Milestone 5: Report on lessons learned, solution, and big vision
+
+Due April 21.
 
 ### Summarize into final pitch
 
@@ -148,6 +159,6 @@ new content should be called out clearly.
 Optionally, extend this a full pitch deck by adding the business model, market
 size, channels and differentiation.
 
-#### Milestone 6) May 5 and May 12: Present pitch to the class (5 min + 5 min for questions)
+### Milestone 6: Present pitch to the class (5 min + 5 min for questions)
 
 Everyone must be ready to go by May 5, but some presentations will have to take place on May 12 due to time constraints.
