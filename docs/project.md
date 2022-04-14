@@ -3,14 +3,14 @@
 
 |Summary of project milestone deadlines (see details below)||
 |---|--|
-|**Description**|**Deadline (PT)**|
-|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3 5pm|
-|[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10 5pm|
-|[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|<span style="text-decoration: line-through">2/10</span> 2/14 5pm|
-|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-mar-3-report-on-lessons-learned-from-the-first-round-of-interviews)|<span style="text-decoration: line-through">2/24</span> 3/3 5pm|
-|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17 5pm|
-|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/14 5pm|
-|[6. Submit &amp; present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/12 5pm|
+|**Description**|**Deadline (at 5pm PT)**|
+|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3|
+|[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10|
+|[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|2/14|
+|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-mar-3-report-on-lessons-learned-from-the-first-round-of-interviews)|3/3|
+|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17|
+|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/21|
+|[6. Submit & present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/5|
 
 ## Submission Instructions
 
@@ -18,7 +18,7 @@
 * There will be a gradescope assignment for each project milestone deadline.
 * The project is for enrolled students only.
 * For each milestone: first, one person per group must submit the assignment.
-* **After submitting**, the submitter must add their team members to the submission via the 
+* **After submitting**, the submitter must add their team members to the submission via the
   “View or edit group” link. Only enrolled students can be added as group members.<br/>
   <img style="width:65%; border:solid thin lightgray" src="/images/gradescope-view-or-edit-group.png"/><br/>
   <img style="width:30%; border:solid thin lightgray" src="/images/gradescope-add-group-members.png"/>
@@ -27,6 +27,7 @@
 ## Project Phases, Milestones, and Deliverables:
 
 ### Form teams
+
 Starting on the first day of class you will meet other students in your area of
 interest. Come with general ideas for potential projects: a problem, a
 technology or a specific area you’d like to work on.
@@ -75,11 +76,10 @@ Your plan should include:
 - The list of questions you plan to ask.
 
 This will require you to come up with hypotheses of who your customer might be,
-what some of their pain points are, what features they will want. 
+what some of their pain points are, what features they will want.
 
-#### Milestone 2) <span style="text-decoration: line-through">Feb 10</span> Feb 14: Submit your customer interview plan
+#### Milestone 2) Feb 14: Submit your customer interview plan
 
-* Note that the deadline for Milestone 2 has been shifted later from Feb 10 to Feb 14, 2022.
 * Make your Milestone 2 submission via Gradescope (don't forget to follow the [submission instructions](#submission-instructions) and add all group members to this submission as well!)
 
 ### Conduct interviews
@@ -135,7 +135,7 @@ and solution. Extra points if you have a demo (even if it is just slides). This
 can be an updated version of your original report on lessons learned, but the
 new content should be called out clearly.
 
-#### Milestone 5) April 14: Report on more lessons learned, solution, &amp; vision
+#### Milestone 5) April 21: Report on more lessons learned, solution, and vision
 
 ### Summarize into final pitch
 
@@ -146,6 +146,8 @@ new content should be called out clearly.
 - What is your long-term vision?
 
 Optionally, extend this a full pitch deck by adding the business model, market
-size, channels and differentiation. 
+size, channels and differentiation.
 
-#### Milestone 6) May 12: Present pitch to the class (10 min)
+#### Milestone 6) May 5 and May 12: Present pitch to the class (5 min + 5 min for questions)
+
+Everyone must be ready to go by May 5, but some presentations will have to take place on May 12 due to time constraints.
