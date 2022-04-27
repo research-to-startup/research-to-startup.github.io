@@ -1,16 +1,16 @@
-<h1 class="title">CS 294 - Research to Startup</h1>
+# CS 294 - Research to Startup
 
-
-|Summary of project milestone deadlines (see details below)||
-|---|--|
+## Overview
+|Overview of project milestone deadlines (see details below)||
+|---|---|
 |**Milestone**|**Deadline (at 5pm PT)**|
-|[1. Submit *team roster* (max 6 students) and *focus area*](#milestone-1-feb-3rd-submit-your-team-roster-6-enrolled-students-or-less-and-your-focus-area)|2/3|
-|[1.a. Submit final team rosters](#1a-by-210-all-team-rosters-muust-be-finalized-and-have-3-6-team-members-that-are-enrolled-in-the-course)|2/10|
-|[2. Submit *customer interview plan*](#milestone-2-feb-10-feb-14-submit-your-customer-interview-plan)|2/14|
-|[3. Report on *lessons learned* from the first round of interviews](#milestone-3-feb-24-mar-3-report-on-lessons-learned-from-the-first-round-of-interviews)|3/3|
-|[4. Present *learnings and opportunity* in class](#milestone-4-march-17-present-learnings-opportunity-in-class-5-min)|3/17|
-|[5. Report on more *lessons learned, solution, and vision*](#milestone-5-april-14-report-on-more-lessons-learned-solution-vision)|4/21|
-|[6. Submit & present final *pitch* to the class](#milestone-6-may-12-present-pitch-to-the-class-10-min)|5/5|
+|[1. Submit team roster (max 6 students) and focus area](#milestone-1-submit-your-team-roster-and-your-focus-area)|2/3|
+|[1a. Submit final team rosters](#milestone-1a-finalize-3-6-enrolled-student-team-rosters)|2/10|
+|[2. Submit customer interview plan](#milestone-2-submit-your-customer-interview-plan)|2/14|
+|[3. Report on lessons learned from the first round of interviews](#milestone-3-report-on-lessons-learned-from-interviews)|3/3|
+|[4. Present learnings and opportunity in class](#milestone-4-present-learnings-opportunity-in-class)|3/17|
+|[5. Report on lessons learned, solution, and big vision](#milestone-5-report-on-lessons-learned-solution-and-big-vision)|4/21|
+|[6. Present final pitch to the class](#milestone-6-present-pitch-to-the-class)|5/5 and 5/12|
 
 ## Submission Instructions
 
@@ -24,7 +24,7 @@
   <img style="width:30%; border:solid thin lightgray" src="/images/gradescope-add-group-members.png"/>
 
 
-## Project Phases, Milestones, and Deliverables:
+## Project Phases, Milestones, and Deliverables
 
 ### Form teams
 
@@ -150,15 +150,17 @@ Due April 21.
 
 ### Summarize into final pitch
 
-- Create a final presentation summarizing at least:
+Create a final presentation covering
+
 - Who is the customer/user?
-- What are their pain-points that you plan to solve?
+- What are their pain points?
 - What is the MVP solution?
 - What is your long-term vision?
 
-Optionally, extend this a full pitch deck by adding the business model, market
-size, channels and differentiation.
+Optionally, extend this a full pitch deck by adding the business model, market size, channels and differentiation.
 
-### Milestone 6: Present pitch to the class (5 min + 5 min for questions)
+### Milestone 6: Present pitch to the class
 
 Everyone must be ready to go by May 5, but some presentations will have to take place on May 12 due to time constraints.
+
+Pitches should be no more than 5 minutes in length, leaving 5 minutes for feedback and questions.
