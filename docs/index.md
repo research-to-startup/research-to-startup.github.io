@@ -11,6 +11,10 @@ hide:
 
 ![Pieter Abbeel, Ali Ghodsi, Ion Stoica, Sergey Karayev, Andy Konwinski, Andrew Krioukov](images/instructors.jpg)
 
+## Founder Talks
+
+![Klaus Schauser, Mike Olson, Gautam Altekar, Scott Shenker, Kurtis Heimerl, Dawn Song, Kurt Keutzer & Forrest Iandola, Ben Hindman, AJ Shankar, Krste Asanovic & Andrew Waterman](images/founder_talks.jpg)
+
 ## Overview
 
 As a CS PhD student or Postdoc, you likely understand some career paths quite
