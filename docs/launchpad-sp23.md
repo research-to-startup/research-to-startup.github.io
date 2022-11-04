@@ -7,19 +7,21 @@ Ali Ghodsi, Andrew Krioukov, Andy Konwinski, Ion Stoica, Prabal Dutta, Pieter Ab
 ## Objective
 
 This class is for teams of PhD students who are…
-* working on a startup that already exists,
-* or will create a startup during the class,
-* or are planning on creating a startup in the next year.
+<ul>
+<li>working on a startup that already exists,</li>
+<li>or will create a startup during the class,</li>
+<li>or are planning on creating a startup in the next year.</li>
+</ul>
 
-This class is taught by people who started companies as Berkeley CS Professors and PhDs just like you. This is the class that we wish we had.
+This class is taught by people who started companies as Berkeley CS Professors and PhDs just like you. <b>This is the class that we wish we had.</b>
 
 Working in a small-group workshop format, we will help you refine your startup through iteration on the product, the market fit, and the pitch. We will provide support for critical milestones including cap table negotiations, first user discovery, and first fundraise.
 
 We will connect you to a large network of CS PhD and faculty founders via guest lectures and office hours. The network includes founders and executives at over a dozen unicorns.
 
-This class is a successor to our Spring 2022 Research to Startup class. Whereas that class was a high level introduction to startups, this class is specifically targeted towards students already working on or soon to be founding a startup.
+This class is a successor to our [Research to Startup Intro class](/intro-sp22). Whereas that class was a high level introduction to startups, this class is specifically targeted towards students already working on or soon to be founding a startup.
 
-## Admission for Spring Course
+## Course Admission
 
 To apply, students must have a startup idea and team of 1 or more people. Teams must apply (link to form below) to join.
 We expect to have many more applications than we have room for in the class and we will be prioritizing PhD and postdoc founders.
