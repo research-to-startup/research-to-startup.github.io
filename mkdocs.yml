@@ -2,7 +2,7 @@ site_name: Research to Startup
 site_url: https://startups.berkeley.edu
 repo_url: https://github.com/sergeyk/research-to-startup
 repo_name: GitHub
-repo_branch: main
+edit_url: edit/main/docs/
 
 site_description:
 site_author: Research to Startup
