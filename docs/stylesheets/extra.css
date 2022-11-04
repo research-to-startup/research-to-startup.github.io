@@ -44,6 +44,12 @@ h1.title {
   font-size: 0.9em;
 }
 
+.apply-button {
+  background-color: blue;
+  padding: 15px 25px;
+  text-decoration: none
+}
+
 li {
   margin-bottom: 0.075em !important
 }
