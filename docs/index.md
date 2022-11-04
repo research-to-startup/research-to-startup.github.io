@@ -10,7 +10,7 @@ hide:
 
   <div class="instructor-list"><b>Instructors:</b> Ali Ghodsi, Andrew Krioukov, Andy Konwinski, Ion Stoica, Pieter Abbeel, Prabal Dutta, Sergey Karayev, Trevor Darrell</div>
 
-  <div class="class-description">This class is a follow-on to our overview course for teams of PhD students who are…
+  <div class="class-description">This class is a follow-on to our overview course and is for teams of PhD students who are…
     <ul>
     <li>working on a startup that already exists,</li>
     <li>or will create a startup during the class,</li>
