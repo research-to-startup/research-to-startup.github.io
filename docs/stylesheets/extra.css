@@ -52,6 +52,11 @@ h1.title {
   text-decoration: none
 }
 
+.apply-button:hover,
+.apply-button:visited {
+  color: white;
+}
+
 li {
   margin-bottom: 0.075em !important
 }
