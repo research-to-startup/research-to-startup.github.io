@@ -28,4 +28,6 @@ they will be allowed to fully participate with their teams in the course.
 
 Class size is capped at the lesser of approximately 20 students or 8 teams to ensure lots of time for feedback & hands-on support.
 
+<div class="centerer-container">
 <a class="apply-button" href="https://docs.google.com/forms/d/e/1FAIpQLScjmBWPXlD70tZYMatvR3ayI3Y5j8j8uoRm2_1cSkXGm5thSg/viewform">Apply For Launchpad</a>
+</div>
