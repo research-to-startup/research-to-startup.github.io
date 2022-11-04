@@ -44,6 +44,11 @@ h1.title {
   font-size: 0.9em;
 }
 
+.centerer-container {
+  display: flex;
+  justify-content: center;
+}
+
 .apply-button {
   color: white;
   background-color: lightblue;
