@@ -46,14 +46,15 @@ h1.title {
 
 .apply-button {
   color: white;
-  background-color: darkblue;
-  padding: 15px 25px;
+  background-color: lightblue;
+  padding: 15px 35px;
   margin: auto;
   text-decoration: none
 }
 
 .apply-button:link,
 .apply-button:hover,
+.apply-button:active,
 .apply-button:visited {
   color: white;
 }
