@@ -51,9 +51,9 @@ h1.title {
 
 .apply-button {
   color: white;
-  background-color: lightblue;
-  padding: 15px 35px;
-  margin: auto;
+  background-color: blue;
+  margin-top: 10px
+  padding: 25px 35px;
   text-decoration: none
 }
 
