@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "research-to-startup"
+version = "0.0.1"
+description = ""
+authors = ["Andy Konwinski <andyk@berkeley.edu>"]
+readme = "readme.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+mkdocs-material = "^8.5.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

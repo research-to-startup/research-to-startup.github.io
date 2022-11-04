@@ -119,7 +119,7 @@ Based on all of your interviews, come up with a summary of who is the
 customer/user and what are their pain-points. Prepare a short presentation on
 this to share with the class.
 
-### Milestone 4: Present learnings & opportunity in class (5 min)
+### Milestone 4: Present learnings & opportunity in class
 
 Due March 17.
 

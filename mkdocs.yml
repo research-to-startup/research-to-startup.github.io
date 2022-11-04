@@ -40,4 +40,5 @@ extra:
 
 nav:
   - 'Home': 'index.md'
-  - 'Project': 'project.md'
+  - 'Launchpad': 'launchpad-sp23.md'
+  - 'Intro to Startups': 'intro-sp22.md'

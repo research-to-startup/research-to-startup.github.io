@@ -5,7 +5,7 @@ h1.title {
 
 .subtitle {
   color: gray;
-  font-size: 1.3em;
+  font-size: 1.4em;
   line-height: 1.3em;
 }
 
@@ -21,6 +21,29 @@ h1.title {
   color: white;
 }
 
+.class-summary {
+  padding: 40px;
+  margin: 40px;
+  border: thin grey solid;
+}
+
+.class-name a {
+  color: darkblue;
+  text-decoration: underline;
+  font-style: underline;
+  font-size: 1.3em;
+  font-weight: 500; 
+}
+
+.instructor-list {
+  padding-top:10px;
+}
+
+.class-description {
+  padding-top:30px;
+  font-size: 0.9em;
+}
+
 li {
   margin-bottom: 0.075em !important
 }
@@ -29,3 +52,4 @@ td {
   padding-top: 0.2em !important;
   padding-bottom: 0.2em !important;
 }
+
