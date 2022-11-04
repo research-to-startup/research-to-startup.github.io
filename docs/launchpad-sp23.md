@@ -21,7 +21,11 @@ This class is a successor to our Spring 2022 Research to Startup class. Whereas 
 
 ## Admission for Spring Course
 
-Students should have a startup idea and team (1-4 people) when joining the class. Each team applies to join with priority given to EECS PhDs. Teams will be admitted as a group. Non-student team members are allowed to audit.
+To apply, students must have a startup idea and team of 1 or more people. Teams must apply (link to form below) to join.
+We expect to have many more applications than we have room for in the class and we will be prioritizing PhD and postdoc founders.
+Teams will be admitted as a group. Non-student and former-student team members are ok and if their team is admitted,
+they will be allowed to fully participate with their teams in the course.
 
-Class size is capped at the lesser of 20 students or 8 teams to ensure lots of time for feedback & hands-on support.
+Class size is capped at the lesser of approximately 20 students or 8 teams to ensure lots of time for feedback & hands-on support.
 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScjmBWPXlD70tZYMatvR3ayI3Y5j8j8uoRm2_1cSkXGm5thSg/viewform"><button>Apply For Launchpad</button></a>
