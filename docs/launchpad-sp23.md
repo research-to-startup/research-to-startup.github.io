@@ -6,6 +6,10 @@ Ali Ghodsi, Andrew Krioukov, Andy Konwinski, Ion Stoica, Prabal Dutta, Pieter Ab
 
 ## Objective
 
+<div style="float:right">
+<a class="apply-button" href="https://docs.google.com/forms/d/e/1FAIpQLScjmBWPXlD70tZYMatvR3ayI3Y5j8j8uoRm2_1cSkXGm5thSg/viewform">Apply For Launchpad</a>
+</div>
+
 This class is for teams of PhD students who are…
 <ul>
 <li>working on a startup that already exists,</li>
