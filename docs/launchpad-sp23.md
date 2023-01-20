@@ -2,7 +2,7 @@
 
 ## Instructors
 
-Ali Ghodsi, Andrew Krioukov, Andy Konwinski, Ion Stoica, Prabal Dutta, Pieter Abbeel, Sergey Karayev, Trevor Darrell
+![Ali Ghodsi, Andrew Krioukov, Andy Konwinski, Ion Stoica, Prabal Dutta, Pieter Abbeel, Sergey Karayev, Trevor Darrell](images/instructors-research-to-startup-sp23.png)
 
 ## Objective
 
@@ -49,3 +49,14 @@ ensure lots of time for feedback & hands-on support.
 <!--<div class="centerer-container">
 <a class="apply-button" href="https://docs.google.com/forms/d/e/1FAIpQLScjmBWPXlD70tZYMatvR3ayI3Y5j8j8uoRm2_1cSkXGm5thSg/viewform">Apply For Launchpad</a>
 </div>-->
+
+## Schedule
+
+### High Level Schedule
+
+![High Level Class Schedule Spring 2023](images/schedule-high-level-research-to-startup-sp23.png)
+
+
+### Detailed Schedule
+
+![Detailed Class Schedule Spring 2023](images/schedule-detailed-research-to-startup-sp23.png)
