@@ -59,4 +59,4 @@ ensure lots of time for feedback & hands-on support.
 
 ### Detailed Schedule
 
-![Detailed Class Schedule Spring 2023](images/schedule-detailed-research-to-startup-sp23.png)
+![Detailed Class Schedule Spring 2023](images/schedule-detailed-research-to-startup-sp23-v2.png)
