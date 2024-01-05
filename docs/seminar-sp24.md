@@ -31,6 +31,14 @@ YC-inspired [launchpad](/launchpad-sp23) for students already working on startup
 this course is more of a traditional reading + discussion group and guest speaker
 series.
 
+## Logistics
+
+This course will meet 5-6:30pm every Wednesday in 310 Soda. All communication
+will be done via Slack. You will be added before class starts. You may send the
+instructors a Slack direct message (or email cs294-194-staff@googlegroups.com)
+if you have questions that are relevant to only you, but keep most of the
+communication public to the course.
+
 ## Course Admission
 
 Enrollment requires instructor consent. [Request permission code
