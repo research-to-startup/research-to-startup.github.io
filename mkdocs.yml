@@ -1,12 +1,12 @@
 site_name: Research to Startup
 site_url: https://startups.berkeley.edu
-repo_url: https://github.com/sergeyk/research-to-startup
+repo_url: https://github.com/research-to-startup/research-to-startup
 repo_name: GitHub
 edit_uri: edit/main/docs/
 
 site_description:
 site_author: Research to Startup
-copyright: Research to Startup, 2022
+copyright: Research to Startup, 2024
 # google_analytics:
 #   - UA-118687450-1
 #   - auto
@@ -34,12 +34,13 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/research_to_startup
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/c/ResearchToStartup
+#    - icon: fontawesome/brands/twitter
+#      link: https://twitter.com/research_to_startup
+#    - icon: fontawesome/brands/youtube
+#      link: https://www.youtube.com/c/ResearchToStartup
 
 nav:
   - 'Home': 'index.md'
-  - 'Launchpad': 'launchpad-sp23.md'
-  - 'Intro to Startups': 'intro-sp22.md'
+  - 'Seminar (2024)': 'seminar-sp24.md'
+  - 'Launchpad (2023)': 'launchpad-sp23.md'
+  - 'Intro to Startups (2022)': 'intro-sp22.md'
