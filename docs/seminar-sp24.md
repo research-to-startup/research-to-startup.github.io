@@ -5,18 +5,21 @@
 ![Trevor Darrell, Prabal Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski,
 Andrew Krioukov, Ion Stoica](images/instructors-research-to-startup-sp24.png)
 
-## Objective
+## Overview
 
-<div style="float:right">
-<a class="apply-button" href="https://forms.gle/nQg1vmNfGFcCMfp97">Request
-Enrollment Permission Code</a>
+<div class="apply-button" style="float:right">
+<a href="https://forms.gle/nQg1vmNfGFcCMfp97">Apply to Enroll</a>
 </div>
 
-This is an EECS seminar for PhD students who are interested in or currently
-creating startups out of research.
+<p class="float: left">
+This is an in-person EECS seminar for PhD students who are interested in or
+currently creating startups out of research. Physical attendance is mandatory.
+</p>
 
+<p>
 This class is taught by Berkeley EECS Professors and PhD alumni experienced in
 starting deeply technical companies around industry-defining technologies.
+</p>
 
 We will connect you to a large network of PhD and faculty founders via guest
 lectures and office hours. The network includes founders and executives at over
@@ -30,7 +33,16 @@ series.
 
 ## Course Admission
 
-<!--<div class="centerer-container">
-<a class="apply-button" href="https://docs.google.com/forms/d/e/1FAIpQLScjmBWPXlD70tZYMatvR3ayI3Y5j8j8uoRm2_1cSkXGm5thSg/viewform">Apply For Launchpad</a>
-</div>-->
+Enrollment requires instructor consent. [Request permission code
+here](https://forms.gle/nQg1vmNfGFcCMfp97). Class size is capped at 30
+students.
+
+## Format
+
+* Fully In-person (no zoom)
+* <b>THE CLASS FORMAT IS STILL BEING DECIDED. The following is tentative</b>
+* Classes will be a mix of:
+    * reading-based discussion group with pre-assigned student discussion leaders
+    * guest speakers
+* No project (we may have an optional project)
 

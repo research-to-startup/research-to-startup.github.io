@@ -8,7 +8,9 @@ hide:
 <div class="class-summary" style="margin-top:0">
   <div class="class-name"><a href="seminar-sp24">Startup Seminar (Spring 2024)</a></div>
 
-  <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion Stoica</div>
+  <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
+  Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion
+  Stoica</div>
 
   <div class="class-description">This is an EECS seminar for PhD students who
   are interested in or currently creating startups out of research.  This class
@@ -42,13 +44,14 @@ hide:
   <div class="instructor-list"><b>Instructors:</b> Pieter Abbeel, Ali Ghodsi,
   Sergey Karayev, Andy Konwinski, Andrew Krioukov, Ion Stoica</div>
 
-  <div class="class-description">This overview course is for Berkeley CS researchers who are curious about what it
-  takes to create a world-changing company. Berkeley EECS researchers have led
-  the creation of industry-defining technologies (e.g., BSD, TCP, RISK, RAID,
-  Spark), as well as iconic technology startups (e.g., VMWare, Apple, Nicera,
-  Inktomi, Sun Microsystems, and Tesla). We will review key lessons from these
-  successes, with a focus on the first steps you can take to go from research
-  to startup.
+  <div class="class-description">
+  This overview course is for Berkeley CS researchers who are curious about
+  what it takes to create a world-changing company. Berkeley EECS researchers
+  have led the creation of industry-defining technologies (e.g., BSD, TCP,
+  RISK, RAID, Spark), as well as iconic technology startups (e.g., VMWare,
+  Apple, Nicera, Inktomi, Sun Microsystems, and Tesla). We will review key
+  lessons from these successes, with a focus on the first steps you can take to
+  go from research to startup.
   </div>
 </div>
 
