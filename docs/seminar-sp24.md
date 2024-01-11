@@ -1,7 +1,10 @@
 # Research to Startup Seminar - Spring 2024
 
-## Instructors
+<b>Guest Speakers include...</b>
 
+![Nat Friedman, Robert Nishihara, Pete Sonsini, Aravind Srinivas](images/guests-sp24.png)
+
+<b>Instructors:</b>
 ![Trevor Darrell, Prabal Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski,
 Andrew Krioukov, Ion Stoica](images/instructors-research-to-startup-sp24.png)
 
@@ -21,9 +24,8 @@ This class is taught by Berkeley EECS Professors and PhD alumni experienced in
 starting deeply technical companies around industry-defining technologies.
 </p>
 
-We will connect you to a large network of PhD and faculty founders via guest
-lectures and office hours. The network includes founders and executives at over
-a dozen unicorns.
+We will connect you to a large network of CS PhD and faculty founders and
+executives at dozens of unicorns, decacorns, and centicorns.
 
 This is the third run in our Research to Startup 294 seminar series. Whereas
 the first 2 classes were a high-level [intro to startups](/intro-sp22) and a
@@ -47,9 +49,8 @@ students.
 
 ## Format
 
-* Fully In-person (no zoom)
-* <b>THE CLASS FORMAT IS STILL BEING DECIDED. The following is tentative</b>
-* Classes will be a mix of:
+* Students must attend in-person
+* Classes will be a mix of...
     * reading-based discussion group with pre-assigned student discussion leaders
     * guest speakers
 * No project (we may have an optional project)
