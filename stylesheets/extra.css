@@ -1,0 +1,77 @@
+h1.title {
+  margin-bottom: 0.5em;
+  color: black;
+}
+
+.subtitle {
+  color: gray;
+  font-size: 1.4em;
+  line-height: 1.3em;
+}
+
+.md-typeset a {
+  font-weight: bold;
+}
+
+.md-announce__inner {
+  text-align: center;
+}
+
+.md-announce__inner a {
+  color: white;
+}
+
+.class-summary {
+  padding: 40px;
+  margin: 40px;
+  border: thin grey solid;
+}
+
+.class-name a {
+  color: darkblue;
+  text-decoration: underline;
+  font-style: underline;
+  font-size: 1.3em;
+  font-weight: 500; 
+}
+
+.instructor-list {
+  padding-top:10px;
+}
+
+.class-description {
+  padding-top:30px;
+  font-size: 0.9em;
+}
+
+.centerer-container {
+  display: flex;
+  justify-content: center;
+}
+
+.apply-button {
+  background-color: #4051b5;
+  margin: 10px 5px 5px;
+  padding: 20px 45px;
+  text-decoration: none
+}
+.apply-button a {
+  color: white;
+}
+
+.apply-button:link,
+.apply-button:hover,
+.apply-button:active,
+.apply-button:visited {
+  color: white !important;
+}
+
+li {
+  margin-bottom: 0.075em !important
+}
+
+td {
+  padding-top: 0.2em !important;
+  padding-bottom: 0.2em !important;
+}
+
