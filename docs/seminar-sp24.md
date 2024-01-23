@@ -1,18 +1,23 @@
 # Research to Startup Seminar - Spring 2024
 
-<b>Guest Speakers include...</b>
+<b>Guest Speakers</b>
 
-![Nat Friedman, Robert Nishihara, Pete Sonsini, Aravind Srinivas](images/guests-sp24.png)
+![Nat Friedman, Robert Nishihara, Greg Papadopolous, DJ Patil, Pete Sonsini,
+Aravind Srinivas](images/guests-sp24-2023-01-23.png)
 
-<b>Instructors:</b>
+<b>Instructors</b>
+
 ![Trevor Darrell, Prabal Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski,
 Andrew Krioukov, Ion Stoica](images/instructors-research-to-startup-sp24.png)
 
 ## Overview
 
-<div class="apply-button" style="float:right">
+<!--div class="apply-button" style="float:right">
 <a href="https://forms.gle/nQg1vmNfGFcCMfp97">Apply to Enroll</a>
-</div>
+</div-->
+
+<b>NOTE: Enrollment is closed and the class is full. Please do not email
+to ask about enrolling. Auditing is not available.</b>
 
 <p class="float: left">
 This is an in-person EECS seminar for PhD students who are interested in or
@@ -43,8 +48,8 @@ communication public to the course.
 
 ## Course Admission
 
-Enrollment requires instructor consent. [Request permission code
-here](https://forms.gle/nQg1vmNfGFcCMfp97). Class size is capped at 30
+Enrollment is closed. <!--requires instructor consent. [Request permission code
+here](https://forms.gle/nQg1vmNfGFcCMfp97).--> Class size is capped at 30
 students.
 
 ## Format
