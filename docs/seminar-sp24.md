@@ -3,7 +3,7 @@
 <b>Guest Speakers</b>
 
 ![Nat Friedman, Robert Nishihara, Greg Papadopolous, DJ Patil, Pete Sonsini,
-Aravind Srinivas](images/guests-sp24-2023-01-23.png)
+Aravind Srinivas](images/guests-sp24.png)
 
 <b>Instructors</b>
 
