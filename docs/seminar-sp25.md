@@ -25,10 +25,9 @@ starting deeply technical companies around industry-defining technologies.
 We will connect you to a large network of CS PhD and faculty founders and
 executives at dozens of unicorns, decacorns, and centicorns.
 
-This is the fourth run in our Research to Startup 294 seminar series, and this
-year we will provide a couple of lectures on product and strategy and the
-rest of the semester will be guest speakers.
-
+This is the fourth run in our Research to Startup 294 seminar series. This year
+the seminar will feature lectures, fireside chats with guests, and startup
+idea sharing+feedback sessions.
 ## Logistics
 
 This course will meet 5-6:30pm every Wednesday by Zoom. We will have a private
