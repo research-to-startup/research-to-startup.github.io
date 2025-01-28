@@ -16,7 +16,7 @@ hide:
   for PhD students who are interested in or currently creating startups out of
   research.  This class is taught by Berkeley EECS Professors and PhD alumni who
   have started deeply technical companies built around industry-defining
-  technologies. The seminar will feature lectures, and fireside chats with guests,
+  technologies. The seminar will feature lectures, fireside chats with guests,
   and startup idea sharing+feedback sessions.
   </div>
 </div>
