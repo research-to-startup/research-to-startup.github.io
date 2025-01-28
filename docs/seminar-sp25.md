@@ -38,5 +38,5 @@ cs294-194-staff@googlegroups.com.
 ## Course Admission
 <!--Enrollment is closed.-->
 Enrollment requires instructor consent. [Apply for the class
-here](https://forms.gle/nQg1vmNfGFcCMfp97). Only EECS PhDs and Postdocs
+here](https://forms.gle/811LF6QsL6LxFo4dA). Only EECS PhDs and Postdocs
 will be admitted.
