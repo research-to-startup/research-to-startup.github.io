@@ -6,7 +6,23 @@ hide:
 <h1 class="title"></h1>
 
 <div class="class-summary" style="margin-top:0">
-  <div class="class-name"><a href="seminar-sp24">Startup Seminar (Spring 2024)</a></div>
+  <div class="class-name"><a href="seminar-sp24">Research to Startup Seminar (Spring 2025)</a></div>
+
+  <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
+  Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion
+  Stoica</div>
+
+  <div class="class-description">This is the Spring 2025 run of the EECS seminar
+  for PhD students who are interested in or currently creating startups out of
+  research.  This class is taught by Berkeley EECS Professors and PhD alumni who
+  have started deeply technical companies built around industry-defining
+  technologies. The seminar will feature lectures, and fireside chats with guests,
+  and startup idea sharing+feedback sessions.
+  </div>
+</div>
+
+<div class="class-summary" style="margin-top:0">
+  <div class="class-name"><a href="seminar-sp24">Research to Startup Seminar (Spring 2024)</a></div>
 
   <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
   Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion
