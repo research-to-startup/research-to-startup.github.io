@@ -41,6 +41,7 @@ extra:
 
 nav:
   - 'Home': 'index.md'
+  - 'Seminar (2025)': 'seminar-sp25.md'
   - 'Seminar (2024)': 'seminar-sp24.md'
   - 'Launchpad (2023)': 'launchpad-sp23.md'
   - 'Intro to Startups (2022)': 'intro-sp22.md'
