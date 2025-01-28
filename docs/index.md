@@ -6,7 +6,7 @@ hide:
 <h1 class="title"></h1>
 
 <div class="class-summary" style="margin-top:0">
-  <div class="class-name"><a href="seminar-sp24">Research to Startup Seminar (Spring 2025)</a></div>
+  <div class="class-name"><a href="seminar-sp25">Research to Startup Seminar (Spring 2025)</a></div>
 
   <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
   Dutta, Ali Ghodsi, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion
