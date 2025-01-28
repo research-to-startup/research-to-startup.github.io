@@ -13,7 +13,7 @@ Andrew Krioukov, Ion Stoica](images/instructors-research-to-startup-sp24.png)
 
 
 <p class="float: left">
-This is a zoom-only EECS seminar for EECS PhD students and Postdocs 
+This is a zoom-only seminar for EECS PhD students and Postdocs 
 who are interested in or currently creating startups out of research.
 </p>
 
@@ -38,5 +38,5 @@ cs294-194-staff@googlegroups.com.
 ## Course Admission
 <!--Enrollment is closed.-->
 Enrollment requires instructor consent. [Apply for the class
-here](https://forms.gle/811LF6QsL6LxFo4dA). Only EECS PhDs and Postdocs
-will be admitted.
+here](https://forms.gle/811LF6QsL6LxFo4dA). <b>Only EECS PhDs and Postdocs
+will be admitted.</b>
