@@ -6,6 +6,21 @@ hide:
 <h1 class="title"></h1>
 
 <div class="class-summary" style="margin-top:0">
+  <div class="class-name"><a href="seminar-sp26">Research to Startup Seminar (Spring 2026)</a></div>
+
+  <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
+  Dutta, Joseph Gonzalez, Kurt Keutzer, Andy Konwinski, Andrew Krioukov, Ion
+  Stoica</div>
+
+  <div class="class-description">
+  We are going back to the basics with a semester of lectures and discussions
+  about how to build a startup out of your research.  This class is taught by
+  Berkeley EECS Professors and PhD alumni who have started deeply technical
+  companies built around industry-defining technologies.
+  </div>
+</div>
+
+<div class="class-summary" style="margin-top:0">
   <div class="class-name"><a href="seminar-sp25">Research to Startup Seminar (Spring 2025)</a></div>
 
   <div class="instructor-list"><b>Instructors:</b> Trevor Darrell, Prabal
